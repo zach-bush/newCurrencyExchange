@@ -24,7 +24,7 @@ that conversion in your head!
 {Make a list of websites that you found helpful in this project}
 
 - [W3Schools](https://www.w3schools.com/cs/cs_classes.php)
-- 
+
 
 # Future Work
 
