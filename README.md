@@ -17,7 +17,7 @@ that conversion in your head!
 # Development Environment
 
 - C++
--Visual Studio
+- Visual Studio
 
 # Useful Websites
 
