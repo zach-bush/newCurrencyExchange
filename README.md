@@ -1,5 +1,5 @@
 # newCurrencyExchange
-https://github.com/zach-bush/CSE-310.git
+https://github.com/zach-bush/newCurrencyExchange.git
 
 
 Have you ever wanted to know how much your money would be worth in another country? I know when I was 19 and living in West Africa I was always having
