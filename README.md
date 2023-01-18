@@ -30,3 +30,4 @@ that conversion in your head!
 
 
 - I want to have it pull the exchange rates from a source that is always updating them. This would greatly increase the reliability of the program.
+- I want to have the list display with number values and strings instead of just number values.
