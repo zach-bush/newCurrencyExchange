@@ -1,6 +1,4 @@
 # newCurrencyExchange
-https://github.com/zach-bush/newCurrencyExchange.git
-
 
 Have you ever wanted to know how much your money would be worth in another country? I know when I was 19 and living in West Africa I was always having
 to do the conversion in my head and it was such a pain. I would go to the ATM and withdraw the local currency while at the same time having to track
@@ -9,9 +7,7 @@ any amount of money in US Dollars and it will convert it to 9 different countrie
 that conversion in your head!
 
 
-
-
-Video Link:
+# Video Link
 https://youtu.be/FlMM5u1XLX8
 
 # Development Environment
@@ -27,7 +23,6 @@ https://youtu.be/FlMM5u1XLX8
 
 
 # Future Work
-
 
 - I want to have it pull the exchange rates from a source that is always updating them. This would greatly increase the reliability of the program.
 - I want to have the list display with number values and strings instead of just number values.
