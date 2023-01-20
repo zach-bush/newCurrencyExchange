@@ -17,9 +17,8 @@ https://youtu.be/FlMM5u1XLX8
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [W3Schools](https://www.w3schools.com/cs/cs_classes.php)
+- [Youtube](https://www.youtube.com/)
 
 
 # Future Work
