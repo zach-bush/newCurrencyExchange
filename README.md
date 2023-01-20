@@ -1,4 +1,4 @@
-# newCurrencyExchange
+# Currency Exchange Program
 
 Have you ever wanted to know how much your money would be worth in another country? I know when I was 19 and living in West Africa I was always having
 to do the conversion in my head and it was such a pain. I would go to the ATM and withdraw the local currency while at the same time having to track
